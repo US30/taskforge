@@ -1,0 +1,7 @@
+openai
+langgraph
+pydantic
+pandas
+python-dotenv
+tabulate
+pytest
